@@ -22,7 +22,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Aurel-2/Aurel-2/output/snake.svg" alt="Snake animation" />
-
-###
