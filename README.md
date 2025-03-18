@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am working on a website for a restaurant - School's project.<br>🌱 I am currently learning PHP, Python librairies and two or three things in C/C++<br>🌐 I am in my third year of a computer science degree.<br>🚀 I want to specialize in data, network or IoT.<br>☕ I love coffee and making game.<br>
+💻I am currently working on two separate school projects: one to create a website for a restaurant, and the other to set up a small server to simulate the network infrastructure of a small business.<br>🌱 I am currently learning PHP, Python librairies and two or three things in C/C++<br>🌐 I am in my third year of a computer science degree.<br>🚀 I want to specialize in data, network or IoT.<br>☕ I love coffee and making game.<br>
 
 
 # 💻 Tech Stack:
