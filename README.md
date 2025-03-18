@@ -1,4 +1,4 @@
-<p align="left">💻 I'm working on two school projects: a restaurant website and a server to simulate a business network infrastructure.<br>🌱 I am currently learning PHP, Python, C#, and various concepts in C/C++ for RE.<br>🌐 I am in my third year of a computer science degree.<br><br>🚀 I want to specialize in data, network or IoT.<br>☕ I love coffee and making game.<br></p>
+<p align="center">💻 I'm working on two school projects: a restaurant website and a server to simulate a business network infrastructure.<br>🌱 I am currently learning PHP, Python, C#, and various concepts in C/C++ for RE.<br>🌐 I am in my third year of a computer science degree.<br>🚀 I want to specialize in data, networking or IoT.<br>☕ I love coffee and making game.<br></p>
 
 ###
 
@@ -32,17 +32,13 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aurel-2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurel-2&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aurel-2/Aurel-2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aurel-2/Aurel-2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Aurel-2/Aurel-2/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Aurel-2/Aurel-2/output/snake.svg" alt="Snake animation" />
 
 ###
