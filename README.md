@@ -33,12 +33,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aurel-2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurel-2&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aurel-2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aurel-2&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Aurel-2/Aurel-2/output/snake.svg" alt="Snake animation" />
 
 ###
