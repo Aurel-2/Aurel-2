@@ -1,5 +1,3 @@
-<p align="center">💻 I'm working on nothing for the moment.<br>🌱 I am currently learning PHP, Python, C#, and various concepts in C/C++ for RE.<br>🌐 I am in my third year of a computer science degree.<br>🚀 I want to specialize in data, networking or IoT.<br>☕ I love coffee and making game.</p>
-
 ###
 
 <div align="center">
