@@ -4,8 +4,8 @@
 ## About Me
 
 - 🎓 Studying for a **master's degree in databases and artificial intelligence.**
-- 🔭 Currently working on **a project involving the use and analysis of meteorological and climatological data.**
-- 🌱 Currently learning **machine learning and mobile development**
+- 🔭 Currently working on **?**
+- 🌱 Currently learning **machine learning**
 
 ## Tech Stack
 
