@@ -4,7 +4,7 @@
 
 ## About Me
 - 🎓 Studying for a **master's degree in databases and artificial intelligence**
-- 🔭 Currently working on **[project/research name]**
+- 🔭 Currently working on **???**
 - 🌱 Currently learning **machine learning**
 
 ## Interests
